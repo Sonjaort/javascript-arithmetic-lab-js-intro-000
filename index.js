@@ -5,3 +5,4 @@ function divide (a,b) {return a/b}
 function increment (n) {return n +=1;}
 function decrement (n) {return n-=1;}
 function makeInt(n) {return(n,10);}
+function preserveDecimal(n) {return n;}
